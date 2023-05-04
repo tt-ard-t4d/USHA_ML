@@ -12,7 +12,7 @@ File and Folder Structure
 
 Create a permanent folder on your hard drive which will serve as your base folder for the model, add the following subfolders and scripts to this base folder: 
 
-csv - to store the CSV exports from Ona 
+csv - to store the CSV exports / table of images
 
 images – subfolders for each region can be created under this folder; this is where the model will store downloaded images 
 
@@ -63,4 +63,4 @@ images given, and if the user provides the original CSV, the prediction evaluati
 
 TensorFlow Model
 
-The TensorFlow models for the Floor, Superstructure, and Door will be made publicly available on the USHA Google Drive and the code is available on this repository on GitHub. Machine learning models require extensive adjustments to avoid things like overfitting and poor accuracy. The iterations on this model and the overall approach to the classification of latrine floors, structure, and door presence are captured in Appendix 1 (Workflow Design). Appendix 2 describes how to run the Python Scripts. 
+The TensorFlow models for the Floor, Superstructure, and Door will be made publicly available on the USHA Google Drive and the code is available on this repository on GitHub. Machine learning models require extensive adjustments to avoid things like overfitting and poor accuracy. The iterations on this model and the overall approach to the classification of latrine floors, structure, and door presence are captured in Appendix 1 on the learning brief PDF (Workflow Design). Appendix 2 describes how to run the Python Scripts. 
